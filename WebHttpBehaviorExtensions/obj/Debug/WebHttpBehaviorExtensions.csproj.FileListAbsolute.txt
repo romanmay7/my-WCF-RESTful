@@ -1,0 +1,6 @@
+C:\Users\Roman Mayerson\source\repos\WebHttpBehaviorExtensions\bin\Debug\WebHttpBehaviorExtensions.exe.config
+C:\Users\Roman Mayerson\source\repos\WebHttpBehaviorExtensions\bin\Debug\WebHttpBehaviorExtensions.exe
+C:\Users\Roman Mayerson\source\repos\WebHttpBehaviorExtensions\bin\Debug\WebHttpBehaviorExtensions.pdb
+C:\Users\Roman Mayerson\source\repos\WebHttpBehaviorExtensions\obj\Debug\WebHttpBehaviorExtensions.csprojAssemblyReference.cache
+C:\Users\Roman Mayerson\source\repos\WebHttpBehaviorExtensions\obj\Debug\WebHttpBehaviorExtensions.exe
+C:\Users\Roman Mayerson\source\repos\WebHttpBehaviorExtensions\obj\Debug\WebHttpBehaviorExtensions.pdb
