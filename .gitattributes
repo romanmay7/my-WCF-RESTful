@@ -2,6 +2,7 @@
 *.aspx linguist-detectable=true
 *.sql linguist-detectable=false
 *.html linguist-detectable=false
+*.ps linguist-detectable=false
 *.js linguist-detectable=false
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
